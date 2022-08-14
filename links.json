@@ -1,66 +1,66 @@
-{
-    [
-    'title': "Nyaser Links",
-      'url': "https://links.nyaser.tk/"
-    ],
-    [
-    'title': "Nyaser Drive",
-      'url': "https://drive.nyaser.tk/"
-    ],
-    [
-    'title': "Nyaser File Helper",
-      'url': "https://filehelper.nyaser.tk/"
-    ],
-    [
-    'title': "Nyaser Url Shortener",
-      'url': "https://slink.nyaser.tk"
-    ],
-    [
-    'title': "梦茵市服务器官网",
-      'url': "http://mengyincity.xyz/"
-    ],
-    [
-    'title': "ZzzFun动漫视频网",
-      'url': "http://www.zzzfun.com/"
-    ],
-    [
-    'title': "Github Proxy",
-      'url': "https://ghproxy.com"
-    ],
-    [
-    'title': "UpdatePack7R2",
-      'url': "https://blog.simplix.info/update7/"
-    ],
-    [
-    'title': "MS 365 E5 Renewer X",
-      'url': "https://e5.xzh.gs/"
-    ],
-    [
-    'title': "Microsoft 365 开发人员计划仪表板",
-      'url': "https://developer.microsoft.com/zh-cn/microsoft-365/profile"
-    ],
-    [
-    'title': "阳光高考",
-      'url': "https://gaokao.chsi.com.cn/"
-    ],
-    [
-    'title': "升学e网通",
-      'url': "https://www.ewt360.com/"
-    ],
-    [
-    'title': "电子课本网",
-      'url': "http://www.dzkbw.com/"
-    ],
-    [
-    'title': "学生综合素质评价管理云平台",
-      'url': "https://naxszp.com/"
-    ],
-    [
-    'title': "福建省中学生综合素质评价信息管理系统",
-      'url': "http://112.111.2.107/eedu_pro_fj/r_login.do"
-    ],
-    [
-    'title': "谷歌浏览器 Chrome 最新版离线安装包下载",
-      'url': "https://www.iplaysoft.com/tools/chrome/"
-    ]
-}
+[
+  {
+    "title": "Nyaser Links",
+    "url": "https://links.nyaser.tk/"
+  },
+  {
+    "title": "Nyaser Drive",
+    "url": "https://drive.nyaser.tk/"
+  },
+  {
+    "title": "Nyaser File Helper",
+    "url": "https://filehelper.nyaser.tk/"
+  },
+  {
+    "title": "Nyaser Url Shortener",
+    "url": "https://slink.nyaser.tk"
+  },
+  {
+    "title": "梦茵市服务器官网",
+    "url": "http://mengyincity.xyz/"
+  },
+  {
+    "title": "ZzzFun动漫视频网",
+    "url": "http://www.zzzfun.com/"
+  },
+  {
+    "title": "Github Proxy",
+    "url": "https://ghproxy.com"
+  },
+  {
+    "title": "UpdatePack7R2",
+    "url": "https://blog.simplix.info/update7/"
+  },
+  {
+    "title": "MS 365 E5 Renewer X",
+    "url": "https://e5.xzh.gs/"
+  },
+  {
+    "title": "Microsoft 365 开发人员计划仪表板",
+    "url": "https://developer.microsoft.com/zh-cn/microsoft-365/profile"
+  },
+  {
+    "title": "阳光高考",
+    "url": "https://gaokao.chsi.com.cn/"
+  },
+  {
+    "title": "升学e网通",
+    "url": "https://www.ewt360.com/"
+  },
+  {
+    "title": "电子课本网",
+    "url": "http://www.dzkbw.com/"
+  },
+  {
+    "title": "学生综合素质评价管理云平台",
+    "url": "https://naxszp.com/"
+  },
+  {
+    "title": "福建省中学生综合素质评价信息管理系统",
+    "url": "http://112.111.2.107/eedu_pro_fj/r_login.do"
+  },
+  {
+    "title": "谷歌浏览器 Chrome 最新版离线安装包下载",
+    "url": "https://www.iplaysoft.com/tools/chrome/"
+  }
+]
